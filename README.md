@@ -12,7 +12,7 @@ For more about these files, please see the following links:
 
 # LICENSE
 
-> The Index Thomisticus Treebank is the work of the Centro Interdisciplinare di Ricerche per la Computerizzazione dei Segni dell’Espressione (CIRCSE) of Università Cattolica del Sacro Cuore. It is available for use under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+> The Index Thomisticus Treebank is the work of the Centro Interdisciplinare di Ricerche per la Computerizzazione dei Segni dell’Espressione (CIRCSE) of Università Cattolica del Sacro Cuore. It is available for use under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. ([Source](http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/index-thomisticus-treebank.html))
 
 See LICENSE.
 
